@@ -6,3 +6,5 @@
 * **PostgreSQL**: postgresql.md
 * **Firebase**: firebase.md
 * **Hazelcast**: hazelcast.md
+
+* **Extra Credit - InfluxDB**: extracredit.md
